@@ -12,7 +12,7 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #43A047;
+    background: #191a19;
 }
 
 .container{
@@ -55,11 +55,11 @@ body{
     right: 13px;
     cursor: pointer;
     line-height: 53px;
-    color: #707070;
+    color: #191a19;
 }
 
 .input-box span:hover{
-    color: #43A047 !important;
+    color: #191a19 !important;
 }
 
 .wrapper .pass-indicator{
@@ -138,7 +138,7 @@ body{
 
 .options .option label{
     cursor: pointer;
-    color: #4f4f4f;
+    color: #191a19;
     padding-left: 0.63rem;
 }
 
@@ -148,7 +148,7 @@ body{
     border: none;
     outline: none;
     cursor: pointer;
-    background: #43A047;
+    background: #191a19;
     font-size: 1.06rem;
     padding: 0.94rem 0;
     border-radius: 5px;
